@@ -100,3 +100,24 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#load-image{
+    width: 15%;
+}
+
+#choose-file{
+    width :61%;
+}
+
+#roastColorText{
+    width: 80%;
+}
+
+#commentButtons{
+    width: 20%;
+    text-align: left;
+}
+
+#Comments{
+    text-align: center;
+}
